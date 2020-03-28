@@ -7,12 +7,12 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Delog`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://delog-w3layouts.netlify.com/`,
+    title: `Swallowing Solutions`,
+    description: `Informational Dysphagia website by Speech Language Pathologists in Malaysia`,
+    siteUrl: `https://swallowingmy.netlify.com/`,
     home: {
-      title: `Hi! I'm Delog`,
-      description: `I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)`,
+      title: `Swallowing Solutions`,
+      description: `Welcome to hope and information that help you understand swallowing difficulties as well as the current approaches to better swallowing solutions by Speech Language Pathologist`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
     w3l_dom_key: `5e609f7a2d23fCF_Domain_verify` 
