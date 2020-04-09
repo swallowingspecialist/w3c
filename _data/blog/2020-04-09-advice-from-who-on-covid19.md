@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: COVID19
+path: COVID19-WHO
 date: 2020-04-09T00:12:14.235Z
 title: Advice from WHO on COVID19
 ---
